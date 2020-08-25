@@ -1,5 +1,5 @@
 {
-  "name": "finance-sdk-js",
+  "name": "@36node/finance-sdk",
   "version": "0.0.2",
   "description": "A SDK boilerplate.",
   "repository": {
